@@ -2,6 +2,9 @@
 /* Your CSS Code here. */
 table{
 	border: 1px solid black;
+	width:100%;
+	margin: 2rem ,0;
+	text-align:center;
 }
 th, tr, td{
 	border: 1px solid black;
